@@ -1,2 +1,4 @@
 # Repositorio Ejercicio 1
-Repositorio para pruebas de workflow n8n
+
+Repositorio para pruebas de workflow n8n con GitHub 
+Issues
